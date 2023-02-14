@@ -11,13 +11,15 @@ ZTM Bus Stop browser is a Java window application created using the Swing librar
 <img src="screenshots/screenshot_1.png" align="center" width="600"/>             
 
 
-
 ### Marked line 145
+
+<img src="screenshots/screenshot_2.png" align="center" width="600"/>             
+
 
 ### Marking any stops on the map
 Information about the last nearest found stop is displayed
 
-
+<img src="screenshots/screenshot_3.png" align="center" width="600"/>             
 
 ## Authors
 Data Science students at Warsaw University of Technology:
