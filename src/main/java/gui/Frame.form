@@ -161,7 +161,7 @@
             <properties/>
             <border type="none"/>
             <children>
-              <component id="9473a" class="javax.swing.JTable" binding="table">
+              <component id="9473a" class="javax.swing.JTable" binding="leftTable">
                 <constraints/>
                 <properties/>
               </component>
@@ -237,7 +237,7 @@
             <properties/>
             <border type="none"/>
             <children>
-              <component id="41e04" class="javax.swing.JTable" binding="table2">
+              <component id="41e04" class="javax.swing.JTable" binding="rightTable">
                 <constraints/>
                 <properties/>
               </component>
